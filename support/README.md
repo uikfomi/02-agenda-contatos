@@ -15,12 +15,12 @@ Adicione somente materiais autorizados e identifique sua origem quando forem inc
 
 ## Árvore estrutural comentada
 
-O ponto inicial é `support/`; cada comentário apresenta o caminho completo relativo à raiz do repositório.
+O ponto inicial é `support/`.
 
 ```text
 support/  # Organiza documentos, referências, tutoriais e vídeos que apoiam o projeto e a disciplina.
-├── .gitkeep  # support/.gitkeep — Marcador que mantém a pasta no controle de versão; não contém dados de aplicação.
-└── README.md  # support/README.md — Guia de navegação e explicações desta pasta.
+├── .gitkeep  # Marcador que mantém a pasta no controle de versão; não contém dados de aplicação.
+└── README.md  # Guia de navegação e explicações desta pasta.
 ```
 
 ## 📌 Status do Conteúdo
